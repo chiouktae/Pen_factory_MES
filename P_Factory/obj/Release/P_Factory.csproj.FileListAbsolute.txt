@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\bin\Release\P_Factory.exe.config
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\bin\Release\P_Factory.exe
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\bin\Release\P_Factory.pdb
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\obj\Release\P_Factory.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\obj\Release\P_Factory.Form1.resources
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\obj\Release\P_Factory.Form2.resources
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\obj\Release\P_Factory.Form3.resources
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\obj\Release\P_Factory.Properties.Resources.resources
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\obj\Release\P_Factory.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\obj\Release\P_Factory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\obj\Release\P_Factory.csproj.CopyComplete
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\obj\Release\P_Factory.exe
+C:\Users\Admin\source\repos2\P_Factory\P_Factory\obj\Release\P_Factory.pdb
